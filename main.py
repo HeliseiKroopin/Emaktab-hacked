@@ -8,7 +8,7 @@ url = "https://login.emaktab.uz/login/?ReturnUrl=https%3a%2f%2femaktab.uz%2fuser
 cookies = {
 	'sst': '2200b7cc-c1b9-4d74-a31c-e4542ca0f065|24/12/2025 20:24:57',
 	    'UZDnevnikAuth_l': '1snyX7Tt2Ff6tG%2Fne6O9DZnId3yyUam74szC%2B5zZzq34CPYa54ERtAFZqb7K4%2B4is%2FBDICMPksqFb9MMp%2BcIsT1eknJFFeYeVs45PBOf907JFxZQ8wLaN8Bd6EdRkD%2Bc1TRfiJQk00WhSif3utopO17ibp%2BrJk%2FT%2BJ12x8rjhTrUDHyEcwbvtkhsxRbwAOgo0uZCpHTLgsINgQzDEaEqdmM3iGxdijS6g%2FDaTVi4Iav3rnyVapJPEtRTPefsH106OBxzKm%2FCP7nJS1YDIyknydyxmSXJYTs%2BVAxvkBntXMfiGixH5IH9CNLIjb%2FfOE97qSKdpw%3D%3D',
-	    'UZDnevnikAuth_a': 'REuZLAAbC1K0%2Bs7%2BFVbN7qxK6lnNQzddYoZsqY53drSzjdBPFj%2F3vrpBpBYRB0AGSx5pwHKhoBQdCO0ig4RL%2FniCtbWW6w0AhrNJZjUQn306aIzS01z3AMw0%2BLjqxMNTD4aPJQ%3D%3D',
+	    'UZDnevnikAuth_a': 'PoRYN%2BH8HJAc%2FWEtwi7XSsgVDibv90LsiMfi%2FeVINHu8%2Be7aF%2BNJx6dru3SPt4ap29fGUAcH1hj3%2FkYMJeAsSAO14hEgsO3e0yx3xgIlTy4vGNDyH4Cy0QZjaripr0vqwc1pXQ%3D%3D ',
 	    'Dnevnik_localization': 'uz-Latn-UZ',
 	    'a_r_p_i': '23.3'
 }
